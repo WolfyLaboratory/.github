@@ -1,6 +1,6 @@
 <img src="./logo.png" align="left" width="200"/>
 
-### `WolfyLab`
+### `WolfyLabs`
 
 Our mission is to bring you the best Minecraft and web expiriences you can imagine
 
